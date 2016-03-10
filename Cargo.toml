@@ -1,0 +1,7 @@
+[package]
+name = "roshambo"
+version = "0.1.0"
+authors = ["Alexander deCurnou <adecurnou@gmail.com>"]
+
+[dependencies]
+rand="*"
